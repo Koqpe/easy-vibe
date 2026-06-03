@@ -58,7 +58,7 @@ Bước đầu tiên để chọn biểu đồ không phải là "tôi thích bi
 
 ::: tip Một quy tắc quyết định đơn giản
 - **Một biến** → Biểu đồ tần suất (phân bố) hoặc thẻ số (KPI)
-- **Hai biến** → Biểu đồ đường (thời gian vs số值) hoặc biểu đồ phân tán (giá trị vs giá trị)
+- **Hai biến** → Biểu đồ đường (thời gian vs giá trị số) hoặc biểu đồ phân tán (giá trị vs giá trị)
 - **Nhiều danh mục** → Biểu đồ cột (so sánh) hoặc biểu đồ tròn (tỷ trọng, ≤5 loại)
 - **Đa chiều** → Biểu đồ radar hoặc biểu đồ tọa độ song song
 :::
@@ -123,7 +123,7 @@ Bảng điều khiển（Dashboard）là sự kết hợp hữu cơ của nhiề
 | Tổng quan toàn cục | Thẻ KPI + Biểu đồ xu hướng + Bảng chi tiết | Báo cáo ngày quản lý, bảng điều khiển vận hành | Chỉ số cốt lõi đặt lên trên cùng, nhìn thấy ngay các con số quan trọng |
 | Phân tích so sánh | Bố cục đối xứng trái phải | Thử nghiệm A/B, phân tích so sánh | Giữ nhất quán chiều so sánh, làm nổi bật sự khác biệt |
 | Phân tích chuyên sâu | Mở rộng từng tầng từ tổng hợp đến chi tiết | Phân tích bán hàng, phân tích hành vi người dùng | Hỗ trợ tương tác nhấp, đi sâu từng tầng |
-| Giám sát thời gian thực | Số lớn + Đường cong thời gian thực + Trạng thái cảnh báo | Màn hình大型 sự kiện, giám sát máy chủ | Tự động làm mới, nền tối, phù hợp chiếu màn hình lớn |
+| Giám sát thời gian thực | Số lớn + Đường cong thời gian thực + Trạng thái cảnh báo | Màn hình sự kiện quy mô lớn, giám sát máy chủ | Tự động làm mới, nền tối, phù hợp chiếu màn hình lớn |
 
 ### 5 nguyên tắc thiết kế bảng điều khiển
 
